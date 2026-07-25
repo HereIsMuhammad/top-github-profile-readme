@@ -49,4 +49,4 @@ You can contribute in many ways:
 6. **Open a Pull Request!**
 
 ## Code of Conduct & License
-Please be respectful to all contributors. See [LICENSE](LICENSE) for detail
+Please be respectful to all contributors. See [LICENSE](LICENSE) for details
