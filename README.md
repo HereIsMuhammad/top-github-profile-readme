@@ -2,8 +2,6 @@
 
 A structured, 100-project curriculum designed to build end-to-end Python engineering mastery—from core language mechanics to production-grade distributed systems, microservices, and AI infrastructure.
 
----
-
 ## Level 1: Core Mechanics and Fundamentals (001 - 025)
 *Focus: Data structures, control flow, functions, modularity, and standard library mastery.*
 
@@ -32,8 +30,6 @@ A structured, 100-project curriculum designed to build end-to-end Python enginee
 - [ ] **023:** Terminal-Based Interactive Menu Library
 - [ ] **024:** Word Puzzle Solver with Trie Data Structure
 - [ ] **025:** QR Code and Barcode Generator CLI
-
----
 
 ## Level 2: Intermediate Systems and Software Design (026 - 050)
 *Focus: Object-Oriented Design, Concurrency, File I/O, Database Interaction, and Web APIs.*
@@ -64,8 +60,6 @@ A structured, 100-project curriculum designed to build end-to-end Python enginee
 - [ ] **049:** Document Similarity and Plagiarism Engine
 - [ ] **050:** Wikipedia Text Scraping and Summarizer CLI
 
----
-
 ## Level 3: Advanced Applications and Tooling (051 - 070)
 *Focus: Networking protocols, security, profiling, custom algorithms, and system utilities.*
 
@@ -90,8 +84,6 @@ A structured, 100-project curriculum designed to build end-to-end Python enginee
 - [ ] **069:** Peer-to-Peer File Transfer System
 - [ ] **070:** Event-Driven Chatbot Framework
 
----
-
 ## Level 4: Production Systems & Big Tech Infrastructure (071 - 084)
 *Focus: Distributed systems, high-concurrency network services, database internals, and enterprise architecture.*
 
@@ -109,8 +101,6 @@ A structured, 100-project curriculum designed to build end-to-end Python enginee
 - [ ] **082:** High-Performance Parquet Data Query Engine (PyArrow/Polars)
 - [ ] **083:** Multi-Threaded Web Server from Raw Sockets
 - [ ] **084:** Extensible Command-Line Interface (CLI) Framework
-
----
 
 ## Level 5: AI Infrastructure & Applied Engineering (085 - 100)
 *Focus: Machine learning engineering, vector retrieval pipelines, model inference, and autonomous runtime systems.*
@@ -132,8 +122,6 @@ A structured, 100-project curriculum designed to build end-to-end Python enginee
 - [ ] **099:** Enterprise Resume Parsing Engine
 - [ ] **100:** Full-Stack AI Platform with Automated CI/CD Deployment
 
----
-
 ## Engineering Standards
 
 Every project in this repository follows these production requirements:
@@ -143,8 +131,6 @@ Every project in this repository follows these production requirements:
 3. **Automated Testing:** Unit and integration testing via `pytest`.
 4. **CI/CD:** Automated builds and testing configured in `.github/workflows/ci.yml`.
 5. **Documentation:** Architectural overview, design trade-offs, and run instructions included in each project directory.
-
----
 
 ## License
 
