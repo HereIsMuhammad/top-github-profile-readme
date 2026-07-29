@@ -20,23 +20,22 @@ python calculator.py
 
 Then type expressions at the prompt:
 
-```
 Smart Calculator — supports + - * / % and parentheses
 Type 'quit' or 'exit' to leave.
 
-> 5 + 3 * (2 - 1)
+5 + 3 * (2 - 1)
 8
-> 10 / 4
+10 / 4
 2.5
-> 7 % 3
+7 % 3
 1
-> (2 + 3) * (4 - 1)
+(2 + 3) * (4 - 1)
 15
-> 2 / 0
+2 / 0
 Error: Division by zero
-> quit
+quit
 Goodbye!
-```
+
 
 ## How it works
 

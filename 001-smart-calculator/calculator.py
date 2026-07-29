@@ -1,9 +1,7 @@
 from __future__ import annotations
 
-
 class CalculatorError(Exception):
     """Raised when an expression is invalid or cannot be evaluated."""
-
 
 class Tokenizer:
     """Breaks an input string into a list of tokens (numbers/operators/parens)."""
