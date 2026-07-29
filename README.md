@@ -1,4 +1,4 @@
-# 100 Python Projects — Beginner to Advanced
+# 100 Python Projects (Beginner to Advanced)
 
 A practical, recruiter-friendly roadmap of 100 Python projects. Designed so any developer — beginner or experienced — can pick a project, build it, and actually learn something useful. Difficulty increases gradually across 5 levels. No project here takes more than a few days for an average developer.
 
