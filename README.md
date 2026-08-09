@@ -39,8 +39,6 @@ with some care.
 
 ## Browse the List
 
-*This list started from the excellent [best-github-profile-readme](https://github.com/maxrohowsky/best-github-profile-readme) project (MIT licensed) and grows from here with new entries.*
-
 | Name | GitHub Profile | README Source |
 |---|---|---|
 | Adam Alston | [adamalston](https://github.com/adamalston) | [README](https://github.com/adamalston/adamalston) |

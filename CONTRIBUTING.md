@@ -1,4 +1,4 @@
-# Contributing to Top Profile READMEs
+# Contributing to Top Github Profile READMEs
 
 Thanks for wanting to add your profile! Here's exactly how to do it.
 
@@ -8,8 +8,8 @@ Thanks for wanting to add your profile! Here's exactly how to do it.
 
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/your-username/top-profile-readme.git
-   cd top-profile-readme
+   git clone https://github.com/your-username/top-github-profile-readme.git
+   cd top-github-profile-readme
    ```
 
 3. **Open `README.md`** and find the table under "Browse the List".
