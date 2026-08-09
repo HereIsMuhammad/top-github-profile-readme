@@ -1,4 +1,4 @@
-# Contributing to Top Profile READMEs
+# Contributing to Top Github Profile READMEs
 
 Thanks for wanting to add your profile! Here's exactly how to do it.
 
