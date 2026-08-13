@@ -41,7 +41,6 @@ with some care.
 
 | Name | GitHub Profile | README Source |
 |---|---|---|
-| Adam Alston | [adamalston](https://github.com/adamalston) | [README](https://github.com/adamalston/adamalston) |
 | Abhishek Choudhary | [theabbie](https://github.com/theabbie) | [README](https://github.com/theabbie/theabbie) |
 | Brian Douglas | [bdougie](https://github.com/bdougie) | [README](https://github.com/bdougie/bdougie) |
 | Danny Koppenhagen | [d-koppenhagen](https://github.com/d-koppenhagen) | [README](https://github.com/d-koppenhagen/d-koppenhagen) |
