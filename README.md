@@ -42,7 +42,6 @@ with some care.
 | Name | GitHub Profile | README Source |
 |---|---|---|
 | Abhishek Choudhary | [theabbie](https://github.com/theabbie) | [README](https://github.com/theabbie/theabbie) |
-| Brian Douglas | [bdougie](https://github.com/bdougie) | [README](https://github.com/bdougie/bdougie) |
 | Danny Koppenhagen | [d-koppenhagen](https://github.com/d-koppenhagen) | [README](https://github.com/d-koppenhagen/d-koppenhagen) |
 | Edward Thomson | [ethomson](https://github.com/ethomson) | [README](https://github.com/ethomson/ethomson) |
 | Erwin Lejeune | [guilyx](https://github.com/guilyx) | [README](https://github.com/guilyx/guilyx) |
