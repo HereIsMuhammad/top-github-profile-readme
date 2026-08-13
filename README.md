@@ -86,6 +86,7 @@ with some care.
 | Siby Lassana | [sibylassana95](https://github.com/sibylassana95) | [README](https://github.com/sibylassana95/sibylassana95) |
 | Jakub Jankiewicz | [jcubic](https://github.com/jcubic) | [README](https://github.com/jcubic/jcubic) |
 | Nazarii Kolesnikov | [nazariikolesnikov](https://github.com/nazariikolesnikov) | [README](https://github.com/nazariikolesnikov/nazariikolesnikov) |
+| Shayan Rais | [shanraisshan](https://github.com/shanraisshan) | [README](https://github.com/shanraisshan/shanraisshan) |
 
 *(New entries are added over time, either by the maintainer or through contributor PRs, alphabetically by first name.)*
 
